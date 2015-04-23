@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-moment-shim",
+  "name": "ember-cli-bluebird-shim",
   "main": [
     "bluebird-shim.js"
   ],
