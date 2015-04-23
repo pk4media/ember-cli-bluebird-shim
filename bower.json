@@ -1,0 +1,19 @@
+{
+  "name": "ember-cli-moment-shim",
+  "main": [
+    "bluebird-shim.js"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/pk4media/ember-cli-bluebird-shim",
+  "authors": "David Negstad <davidn@pk4media.com>",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bluebird": "~2.9.24"
+  }
+}
